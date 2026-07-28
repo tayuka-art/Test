@@ -1,0 +1,73 @@
+{
+  "version": 4,
+  "last_updated": "2026-07-28",
+  "ad_config": {
+    "show_all_ads": true,
+    "active_network": "facebook",
+    "networks": {
+      "admob": {
+        "app_open": "ca-app-pub-xxx/111",
+        "banner": "ca-app-pub-xxx/222",
+        "native": "ca-app-pub-xxx/333",
+        "interstitial": "ca-app-pub-xxx/444",
+        "rewarded": "ca-app-pub-xxx/555"
+      },
+      "applovin": {
+        "app_open": "applovin_open_123",
+        "banner": "applovin_banner_123",
+        "native": "applovin_native_123",
+        "interstitial": "applovin_inter_123",
+        "rewarded": "applovin_reward_123"
+      },
+      "unity": {
+        "game_id": "1234567",
+        "banner": "banner_placement",
+        "interstitial": "video",
+        "rewarded": "rewardedVideo"
+      },
+      "startapp": {
+        "app_id": "200000000"
+      },
+      "facebook": {
+        "banner": "YOUR_PLACEMENT_ID_BANNER",
+        "native": "YOUR_PLACEMENT_ID_NATIVE",
+        "interstitial": "YOUR_PLACEMENT_ID_INTERSTITIAL",
+        "rewarded": "YOUR_PLACEMENT_ID_REWARDED"
+      }
+    }
+  },
+  "cross_promo_apps": [
+    {
+      "id": "promo_001",
+      "nama_app": "Neon Edge Lighting",
+      "gambar_app": "https://link-penyimpanan.com/icons/neon_edge.png",
+      "link_app": "market://details?id=com.studioanda.neonedge"
+    },
+    {
+      "id": "promo_002",
+      "nama_app": "4K Anime Wallpapers",
+      "gambar_app": "https://link-penyimpanan.com/icons/anime_wall.png",
+      "link_app": "https://play.google.com/store/apps/details?id=com.studioanda.animewall"
+    }
+  ],
+  "themes": [
+    {
+      "id": "theme_001",
+      "nama_tema": "Cyberpunk Neon",
+      "nama_video": "Neon City Loop",
+      "link_tema": "https://link-penyimpanan.com/zipper/neon_zip.json",
+      "link_video": "https://v1.pinimg.com/videos/mc/720p/cd/19/aa/cd19aae05406d34fe13749d456445d98.mp4",
+      "thumbnail_url": "https://i.pinimg.com/originals/85/97/49/85974972dae8f31ec96721ab05349f88.jpg",
+      "harga": "gratis"
+    },
+    {
+      "id": "theme_002",
+      "nama_tema": "Golden Luxury",
+      "nama_video": "Gold Dust Particle",
+      "link_tema": "https://link-penyimpanan.com/zipper/gold_zip.json",
+      "link_video": "https://link-penyimpanan.com/video/gold_dust.mp4",
+      "thumbnail_url": "https://link-penyimpanan.com/thumb/gold_dust.jpg",
+      "harga": "nonton_iklan"
+    }
+  ]
+}
