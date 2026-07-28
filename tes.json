@@ -3,7 +3,7 @@
   "last_updated": "2026-07-28",
   "ad_config": {
     "show_all_ads": true,
-    "active_network": "facebook",
+    "active_network": "admob",
     "networks": {
       "admob": {
         "app_open": "ca-app-pub-3940256099942544/5575463023",
