@@ -6,11 +6,11 @@
     "active_network": "facebook",
     "networks": {
       "admob": {
-        "app_open": "ca-app-pub-xxx/111",
-        "banner": "ca-app-pub-xxx/222",
-        "native": "ca-app-pub-xxx/333",
-        "interstitial": "ca-app-pub-xxx/444",
-        "rewarded": "ca-app-pub-xxx/555"
+        "app_open": "ca-app-pub-3940256099942544/5575463023",
+        "banner": "ca-app-pub-3940256099942544/6300978111",
+        "native": "ca-app-pub-3940256099942544/3986624511",
+        "interstitial": "ca-app-pub-3940256099942544/4411468910",
+        "rewarded": "ca-app-pub-3940256099942544/1712485313"
       },
       "applovin": {
         "app_open": "applovin_open_123",
