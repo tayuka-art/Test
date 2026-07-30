@@ -2,7 +2,7 @@
   "version": 4,
   "last_updated": "2026-07-28",
   "ad_config": {
-    "show_all_ads": true,
+    "show_all_ads": false,
     "active_network": "admob",
     "networks": {
       "admob": {
